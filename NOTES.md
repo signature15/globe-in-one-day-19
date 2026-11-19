@@ -3,7 +3,14 @@
 ## Design notes
 
 These are the layout decisions behind `entry.png`, the 1024x1024 broadsheet
-poster for Thursday 19 November 2026.
+poster that compresses Thursday 19 November 2026 onto a single page. The page
+carries the day as a set of 38 stories spanning every region and field the
+news touched - politics, courts, markets, science, quakes and sport - and
+each decision documented below, from the paper colour to the date-check
+footer, exists to keep those 38 stories reading as one coherent front page
+rather than a pile of unrelated headlines. What follows is the reasoning
+behind each choice, and what the choice does for a reader meeting the poster
+for the first time.
 
 **Why cream paper.** The page is printed on a warm off-white rather than pure
 white because that is the colour newsprint actually ages into, and the goal is
@@ -47,3 +54,17 @@ Thursday 19 November 2026 from carryover context, so the poster stays an
 honest record of one day rather than a general "latest news" collage. It is
 the page's own fact-check, and it is what makes the single-date promise of
 the masthead credible.
+
+## Sources
+
+The day's reporting draws on the following sources:
+
+- Reuters
+- AP
+- AFP
+- BBC
+- Bloomberg
+- Kyodo
+- ICJ
+- USGS
+- ONS
