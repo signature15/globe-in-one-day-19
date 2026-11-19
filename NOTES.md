@@ -3,14 +3,20 @@
 ## Design notes
 
 These are the layout decisions behind `entry.png`, the 1024x1024 broadsheet
-poster that compresses Thursday 19 November 2026 onto a single page. The page
-carries the day as a set of 38 stories spanning every region and field the
-news touched - politics, courts, markets, science, quakes and sport - and
-each decision documented below, from the paper colour to the date-check
-footer, exists to keep those 38 stories reading as one coherent front page
-rather than a pile of unrelated headlines. What follows is the reasoning
-behind each choice, and what the choice does for a reader meeting the poster
-for the first time.
+poster that compresses Thursday 19 November 2026 onto a single page. The date
+is not decoration on this page: every element documented below was chosen to
+state that this specific day - Thursday 19 November 2026 - happened, and
+happened the way the record here describes it. The page carries the day as a
+set of 38 stories spanning every region and field the news touched - politics,
+courts, markets, science, quakes and sport - and the count of 38 is itself a
+decision: it was the number at which every region, every beat and every
+magnitude the day produced found a place on the page without any single story
+crowding out the rest. Each of those 38 stories earns its spot, and each
+decision documented below, from the paper colour to the date-check footer,
+exists to keep those 38 stories reading as one coherent front page rather than
+a pile of unrelated headlines. What follows is the reasoning behind each
+choice, what the choice does for a reader meeting the poster for the first
+time, and what the obvious alternative would have cost the page.
 
 **Why cream paper.** The page is printed on a warm off-white rather than pure
 white because that is the colour newsprint actually ages into, and the goal is
