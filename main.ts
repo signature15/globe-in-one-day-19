@@ -1,21 +1,22 @@
 /**
- * This news image is composed as a cream-coloured broadsheet for one
- * carefully bounded day: Thursday 19 November 2026.
- * Its oversized masthead makes that full date the first thing a reader
- * sees, giving the page the authority and scale of a printed front page.
- * A world map panel anchors the centre of the composition and turns the
- * edition into a geographic record rather than a stack of local columns.
- * Numbered pins sit across the map to connect places with the reporting
- * gathered around them and to make the global spread easy to scan.
- * The surrounding layout reconciles 33 stories into one compact edition,
- * balancing major headlines with smaller dispatches without losing their
- * relationship to the map or to the day's larger picture.
- * Warm paper, strong rules, and restrained ink colours keep the image
- * feeling like a physical broadsheet while preserving a clear reading
- * order from the masthead through the map and into the story blocks.
- * A date-check footer closes the page by distinguishing events that belong
- * to Thursday 19 November 2026 from background or coverage carried over
- * from another news cycle, so the image remains a precise daily record.
+ * v21 presents Thursday 19 November 2026 as a tactile, editorial news wall
+ * built from cream paper, firm rules, and a deliberately printed visual voice.
+ * The masthead establishes the edition at the top, while compact story cards
+ * create a dense but readable rhythm across the rest of the page.
+ * Every card carries a flat-vector art band, giving each report a distinct
+ * colour-coded visual signature without relying on gradients or photographs.
+ * A dedicated “WHERE IT HAPPENED” map panel provides the geographic spine
+ * of the layout and turns the global edition into a quick visual itinerary.
+ * Numbered pins on that panel correspond to the numbered story cards, so the
+ * reader can connect each location to its report at a glance.
+ * Rubber stamps add the language of a handled newsroom artifact: urgent,
+ * selected, filed, and checked rather than polished into a generic dashboard.
+ * The stamps, vector bands, and map pins work together as navigation cues,
+ * separating the 33 reports while keeping them part of one coherent page.
+ * Strong type, ink-like accents, and the warm stock background preserve the
+ * handmade broadsheet character from the lead story through the final close.
+ * The finished composition is a compact visual record of one day in the
+ * world, with place, priority, and editorial status visible before the copy.
  */
 import { copyFileSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
