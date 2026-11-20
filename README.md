@@ -2,7 +2,7 @@
 [![rank](https://make.fun/badge/news-image-20261119/signature15/globe-in-one-day-19/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/signature15/globe-in-one-day-19/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-# One Day in World News - Thursday 19 November 2026
+# Globe in One Day: Thursday 19 November 2026
 
 One day of world news, one page. This is an entry for make.fun's
 [news-image-20261119 contest](https://make.fun/bounty/news-image-20261119), which asked

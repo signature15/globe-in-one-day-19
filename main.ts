@@ -1,37 +1,21 @@
 /**
- * One Day in World News - Thursday 19 November 2026.
- *
- * The deliverable of this repository is one image, entry.png: the
- * entire day's world news laid out as a cream newsprint broadsheet,
- * dated Thursday 19 November 2026, and designed to be read front to
- * back like a single edition of a global paper.
- *
- * The page is assembled in layers, top to bottom:
- *
- *   1. Masthead - the paper's title block, carrying a red date tab
- *      stamped "Thursday 19 November 2026".
- *   2. Day-in-numbers strip - four figures that define the day: the
- *      ICJ's 9-6 genocide vote, Anthropic's $81bn IPO valuation, the
- *      M5.7 earthquake that struck Kumamoto, and UK inflation holding
- *      at 3.6%.
- *   3. Hero cards - the three stories above the fold: the three-way
- *      summit in Shenzhen, the ICJ ruling on Myanmar, and Anthropic
- *      ringing the bell at Nasdaq.
- *   4. Secondary tier - five cards developing the day's next-most
- *      important stories.
- *   5. Tertiary tier - seven shorter cards rounding out the edition.
- *   6. Evening briefs - twenty-four dispatches, one per world region,
- *      each tagged with the region it reports from.
- *   7. Date-check footer - a closing pass separating what actually
- *      occurred on this Thursday from anything merely carried over
- *      from the previous day's coverage.
- *
- * There is no rendering pipeline here: the broadsheet is finished
- * artwork committed to the repository. This script performs one
- * publication step only - it copies entry.png, byte for byte and
- * unmodified, into the directory named by the MAKEFUN_OUTPUT_DIR
- * environment variable, defaulting to /output when that variable is
- * unset.
+ * This news image is composed as a cream-coloured broadsheet for one
+ * carefully bounded day: Thursday 19 November 2026.
+ * Its oversized masthead makes that full date the first thing a reader
+ * sees, giving the page the authority and scale of a printed front page.
+ * A world map panel anchors the centre of the composition and turns the
+ * edition into a geographic record rather than a stack of local columns.
+ * Numbered pins sit across the map to connect places with the reporting
+ * gathered around them and to make the global spread easy to scan.
+ * The surrounding layout reconciles 33 stories into one compact edition,
+ * balancing major headlines with smaller dispatches without losing their
+ * relationship to the map or to the day's larger picture.
+ * Warm paper, strong rules, and restrained ink colours keep the image
+ * feeling like a physical broadsheet while preserving a clear reading
+ * order from the masthead through the map and into the story blocks.
+ * A date-check footer closes the page by distinguishing events that belong
+ * to Thursday 19 November 2026 from background or coverage carried over
+ * from another news cycle, so the image remains a precise daily record.
  */
 import { copyFileSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
